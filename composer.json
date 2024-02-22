@@ -1,0 +1,14 @@
+{
+  "name": "kingdee-php/k3cloud-demo",
+  "description": "KingDee PHP SDK demo",
+  "license": "MIT",
+  "autoload": {
+      "psr-4": {
+        "Kingdeephp\\K3cloud\\": "src/"
+      }
+    },
+  "require": {
+      "php" : ">=7.4",
+      "kingdee-php/k3cloud": "^1.1"
+  }
+}
